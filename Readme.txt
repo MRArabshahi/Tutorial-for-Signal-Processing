@@ -1,0 +1,1 @@
+An example of writing the fourier series for a sample function 
